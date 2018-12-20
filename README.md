@@ -52,3 +52,8 @@ Guided by Robson Leonardo Ferreira Cordeiro
 LICENSE
 --------------------------------------------------
 [MIT](LICENSE)
+
+MORE INFO
+--------------------------------------------------
+
+You can find more information about the project in the files:  `specification partx.pdf`
