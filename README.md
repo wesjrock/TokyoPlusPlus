@@ -6,8 +6,8 @@ This is an implementation of an application to study Database systems for the [D
 
 ![Screenshot 1](img/menu.png)
 
-## Application
-
+APPLICATION
+--------------------------------------------------
 The app is made in Java with NetBeans 8.2 and JDK 8.
 
 You can access it in the  [Releases](https://github.com/wesjrock/TokyoPlusPlus/releases) tab (it will require at least Java Runtime Environment 8 to run it).
@@ -22,14 +22,24 @@ The user can also generate a PDF file with a table of the result.
 
 ![Screenshot 2](img/pdfReport.png)
 
-## Database Server
+DATABASE SERVER
+--------------------------------------------------
 
 The connection and data is to a Oracle's server, provided by ICMC - USP to the students during the course of Database.
 
 All SQL scripts used in the project can be access it in the [Script](script) folder.
 
-## Credits
+HOW TO COMPILE
+--------------------------------------------------
+```bash
+  1. Install Netbeans.
+  2. Put all the files inside a folder called `TokyoPlusPlus`.
+  3. Open Netbeans, select Open Project and then select the TokyoPlusPlus project.
+  4. Compile and Run.
+```
 
+CREDITS
+--------------------------------------------------
 [iText](http://itextpdf.com/) library to handle PDF file.
 
 Members in the project:
@@ -40,6 +50,6 @@ Members in the project:
 
 Guided by Robson Leonardo Ferreira Cordeiro
 
-## License
-
+LICENSE
+--------------------------------------------------
 [MIT](LICENSE)
