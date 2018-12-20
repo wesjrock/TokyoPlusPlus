@@ -1,5 +1,4 @@
 # Tokyo++
-
 OVERVIEW
 --------------------------------------------------
 This is an implementation of an application to study Database systems for the [Databases] course. It features a fictional server for the Tokyo 2020 Olympics and it was made at the Computer Science undergraduate program from University of São Paulo (ICMC - USP).
